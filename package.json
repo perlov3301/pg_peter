@@ -1,0 +1,19 @@
+{
+  "name": "pg_peter",
+  "version": "1.0.0",
+  "description": "nodejs and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perlov3301/pg_peter.git"
+  },
+  "author": "Shal Perlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perlov3301/pg_peter/issues"
+  },
+  "homepage": "https://github.com/perlov3301/pg_peter#readme"
+}
